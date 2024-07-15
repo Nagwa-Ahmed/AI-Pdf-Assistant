@@ -6,3 +6,10 @@ llama-index-embeddings-huggingface==0.2.2
 torch==2.3.1
 torchvision==0.18.1
 torchaudio==2.3.1
+pyngrok==7.1.6
+colab-xterm==0.2.0
+marker-pdf==0.2.16
+faiss-cpu==1.8.0.post1
+faiss-gpu==1.7.2
+llama-index-vector_stores-faiss==0.1.2
+langchain==0.2.7
